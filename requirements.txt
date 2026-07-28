@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+redis
+sqlalchemy
+pymysql
+pydantic
+pydantic-settings
+opencv-python
+pillow
+numpy
+python-dotenv
+ultralytics
+torch
+torchvision
+ffmpeg-python
+prometheus-client
